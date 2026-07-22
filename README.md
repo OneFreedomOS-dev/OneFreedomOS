@@ -34,4 +34,4 @@ And yes — this is real.
 [██░░░░░░░░] 20% — bootloader
 [█░░░░░░░░░] 10% — GUI
 ##MY Youtube channel
-https://www.youtube.com/@DevOneFreedomOS
+https://www.youtube.com/@OneFreedomOS
