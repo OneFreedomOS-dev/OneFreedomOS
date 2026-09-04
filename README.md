@@ -1,8 +1,8 @@
 # OneFreedomOS
-A free operating system with a C-based kernel and Python UI
+A free operating system with a C-based kernel and assembly
 
 > I'm 12 years old.  
-> I write in C and Python.  
+> I write in C and assembly.  
 > This is NOT a joke.
 
 ---
@@ -22,15 +22,14 @@ And yes — this is real.
 
 ## stack
 
-- **C** — kernel core  
-- **Python** — GUI tools and scripts  
+- **C** — kernel core   
 - **asm** — bootloader  
 - **make / gcc / nasm** — build system
 
 ---
 
 ## status
-[████████░░] 80% — kernel (works, but has a bug)
+[█████████] 100% — kernel
 [██░░░░░░░░] 20% — bootloader
 [█░░░░░░░░░] 10% — GUI
 ##MY Youtube channel
